@@ -6,14 +6,23 @@ The purpose of the challenge was to develop a story on how bike data from New Yo
 
 ## Results
 Using tableau, the following charts were made:
-- customer gender breakdown
-- customer status
-- peak hours of operation
-- trip duration
-- checkout time by gender
-- trips by usertype and gender
-- trips on a daily basis
-- trips by gender
+
+| Customer gender breakdown | Customer status |
+| :---: | :---: |
+|<img src = "resources/gender.png"> | <img src = "resources/status.png"> |
+
+| Peak hours of operation | Trip Duration |
+| :---: | :---: |
+|<img src = "resources/hour.png"> | <img src = "resources/trip.png"> |
+
+| Checkout time by gender | Trip breakdown by usertype and gender |
+| :---: | :---: |
+|<img src = "resources/tripbygender.png"> | <img src = "resources/weekday.png"> |
+
+| Trips on a daily basis | Trips by gender |
+| :---: | :---: |
+|<img src = "resources/daily.png"> | <img src = "resources/dailybygender.png"> |
+
 
 See the link below for the charts and storyline on how a bike sharing program can use started in Des Moines, Iowa.
 
